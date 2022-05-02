@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm globosc</h1>
-<h3 align="center">A passionate system engineer and scientist/data engineer entusiast from Chile</h3>
+<h3 align="center">An enthusiast system engineer and scientist/data engineer from Chile</h3>
 
 - 🔭 I’m currently working on **differents tools for data management**
 
