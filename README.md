@@ -1,3 +1,5 @@
+![Diseño sin título (2)](https://user-images.githubusercontent.com/71105387/166351404-47ec4a54-098d-4cb3-90b7-369b1f7ee097.png)
+
 <h1 align="center">Hi 👋, I'm globosc</h1>
 <h3 align="center">An enthusiast scientist/data engineer with a background as system engineer SRE from Chile.</h3>
 
